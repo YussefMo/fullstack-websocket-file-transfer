@@ -96,7 +96,7 @@ SOCKET_URL=ws://localhost:8000/ws
 
 ## ⚠️ File Size Limit
 
-The backend supports **any file size**, but for this **demo**, transfers are limited to **10MB** due to free hosting limitations (e.g., Render). You can remove or increase this limit in the Rust backend (`MAX_FILE_SIZE`).
+The backend supports **any file size**, but for this **demo**, transfers are limited to **10MB** due to free hosting limitations (e.g., Render)
 
 ---
 
